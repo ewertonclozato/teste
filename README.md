@@ -1,8 +1,5 @@
 # teste
 
-```
-~~~CSHARP
+```CSHARP
 Isso é C#
-~~~
-
 ```
