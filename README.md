@@ -1,5 +1,8 @@
 # teste
 
-```CSHARP
+~~~CSHARP
 Isso é C#
-```
+~~~
+~~~Java
+Isso é Java
+~~~
