@@ -1,7 +1,7 @@
 # teste
 
 ```
-~~~C#
+~~~CSHARP
 Isso é C#
 ~~~
 
