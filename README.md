@@ -1,6 +1,6 @@
 # teste
 
-```C
+```JavaScript
 
 for();
 ```
